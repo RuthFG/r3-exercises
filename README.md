@@ -1,3 +1,3 @@
 # r3-exercises
 I love :coffee:
-I love :wine:
+I live in CPH
